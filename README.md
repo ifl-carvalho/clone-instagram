@@ -31,4 +31,8 @@ Features do projeto:
 * Website: www.simcoder.com
 * Twitter: [@simcoder\_here](https://twitter.com/simcoder\_here)
 * Github: [@simcoderYoutube](https://github.com/simcoderYoutube)
+<<<<<<< HEAD
 * Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+=======
+* Youtube: [SimCoder](https://www.youtube.com/channel/UCQ5xY26cw5Noh6poIE-VBog)
+>>>>>>> 804b8d91d910487afbcd4e8454425ff7bd1bf90e
