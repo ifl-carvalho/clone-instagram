@@ -1,5 +1,7 @@
 Projeto de clone do instagram pela freeCodeCamp.org
 
+Esse é um de dois projetos clone, a ideia por trás desses projetos é aumentar meu portifólio de forma dinâmica,
+enquanto produzo projetos individuais.  
 <br>
 
 ## 💻 Tecnologias
